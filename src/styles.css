@@ -6,9 +6,20 @@
 
 body {
   margin: 0;
-  background-image: url("https://i.pinimg.com/originals/9e/45/7f/9e457f19eabaa71335b2b5fb8a74830f.jpg");
-  color: #3bde35;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8NHqQnFIViRFyTozHTaHMQHbKcXHXdEW9Q&usqp=CAU");
+  color: #030007fb;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
+
+input {
+  height: 2rem;
+  font-size: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+  box-shadow: 0rem 0rem 2rem black;
+}
+
 input {
   height: 2rem;
   font-size: 1rem;
@@ -18,7 +29,7 @@ input {
 }
 button {
   margin: 1rem 0;
-  background-color: #7158d3;
+  background-color: #5cd358;
   padding: 0.5rem;
   border: 1px solid black;
   border-radius: 1rem;
