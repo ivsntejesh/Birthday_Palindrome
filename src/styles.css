@@ -20,13 +20,6 @@ input {
   box-shadow: 0rem 0rem 2rem black;
 }
 
-input {
-  height: 2rem;
-  font-size: 1rem;
-  border-radius: 1rem;
-  border: 1px solid black;
-  box-shadow: 0rem 0rem 2rem black;
-}
 button {
   margin: 1rem 0;
   background-color: #5cd358;
