@@ -16,6 +16,8 @@ export default function App() {
     var myd = month + year + day;
     var ydm = year + day + month;
     var smdy = "";
+    
+    updateResult(false);
 
     if (d !== "") {
       if (dmy === dmy.split("").reverse().join("")) {
